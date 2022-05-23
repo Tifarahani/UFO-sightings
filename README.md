@@ -17,23 +17,24 @@ In this exercise, we reviewed how to display default data in the table, listen f
 * Filter UFO sightings on multiple criteria
 This script creates the Filter Search area on the webpage.
 <p align="center">  
-<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/webpage_no_filters.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/webpage_no_filters.png"  width="90%" height="90%">
 </p>
 <p align="center">  
 <i>Figure 1:webpage_no_filters </i>
 </p>
 <p align="center">  
-<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/webpage_filters.png"  width="80%" height="80%">
-</p>
-<p align="center">  
-<i>Figure 1:webpage_filters </i>
-</p>
-<p align="center">  
-<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/filters.png"  width="80%" height="80%">
+<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/filters.png"  width="60%" height="60%">
 </p>
 <p align="center">  
 <i>Figure 1:Filter Search </i>
 </p>
+<p align="center">  
+<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/webpage_filters.png"  width="90%" height="90%">
+</p>
+<p align="center">  
+<i>Figure 1:webpage_filters </i>
+</p>
+
 
 
 ### Summary:
