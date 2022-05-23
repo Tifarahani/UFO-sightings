@@ -26,15 +26,16 @@ This script creates the Filter Search area on the webpage.
 <img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/filters.png"  width="60%" height="60%">
 </p>
 <p align="center">  
-<i>Figure 1:Filter Search </i>
+<i>Figure 2:Filter Search </i>
 </p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/webpage_filters.png"  width="90%" height="90%">
 </p>
 <p align="center">  
-<i>Figure 1:webpage_filters </i>
+<i>Figure 3:webpage_filters </i>
 </p>
 
 
-
 ### Summary:
+Overall, this webpage provides a useful and practical way for people to get an in-depth analysis of UFO sightings, allowing users to filter for multiple criteria at the same time. As with most projects, however, there is room for further development. One of the drawbacks of this webpage is that users must input the search criteria as all lowercase. 
+For example, if a user were to input 'CA' instead of 'ca' in the State filter, the table would not produce data for California. One area of further development would be to allow for users to input whatever their desired case by using the .toLowerCase() function on the value of their search. Another area of further development could be to allow users to click the headers to sort the data by the specified column. For example, if the user wanted to sort the data ascendingly or descendingly by the duration, the user could click the 'Duration' header to sort the data.
