@@ -15,6 +15,7 @@ In this exercise, we reviewed how to display default data in the table, listen f
 ### Resources
 ### Deliverable 1:
 * Filter UFO sightings on multiple criteria
+This script creates the Filter Search area on the webpage.
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png"  width="90%" height="90%">
 </p>
