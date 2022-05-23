@@ -17,10 +17,10 @@ In this exercise, we reviewed how to display default data in the table, listen f
 * Filter UFO sightings on multiple criteria
 This script creates the Filter Search area on the webpage.
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/UFO-sightings/blob/main/Statics/Images/filters.png"  width="90%" height="90%">
 </p>
 <p align="center">  
-<i>Figure 1:Use browser to visit the URL </i>
+<i>Figure 1:Filter Search </i>
 </p>
 
 
