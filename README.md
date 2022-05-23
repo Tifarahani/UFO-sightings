@@ -38,6 +38,6 @@ This script creates the Filter Search area on the webpage.
 ### Summary:
 Overall, this webpage provides a useful and practical way for people to get an in-depth analysis of UFO sightings, allowing users to filter for multiple criteria at the same time. As with most projects, however, there is room for further development. One of the drawbacks of this webpage is that users must input the search criteria as all lowercase. For example, if a user were to input 'CA' instead of 'ca' in the State filter, the table would not produce data for California. One area of further development would be to allow for users to input whatever they would like using the .toLowerCase() function on the value of their search. Another area of further development could be to allow users to click the headers to sort the data by the specified column. For example, if the user wanted to sort the data ascendingly or 
 
-- There are few steps to further enhance the web:
- * By adding additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
- * Adding a "Latest News" section that will highlight an article showing the most recent reported sighting.
+* There are few steps to further enhance the web:
+   * By adding additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
+   * Adding a "Latest News" section that will highlight an article showing the most recent reported sighting.
